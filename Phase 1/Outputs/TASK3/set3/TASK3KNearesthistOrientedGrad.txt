@@ -1,0 +1,4 @@
+Distance between image-0.png and image-40.png : 0.006130899930030032
+Distance between image-0.png and image-50.png : 0.007487745525360349
+Distance between image-0.png and image-100.png : 0.008935403464432654
+Distance between image-0.png and image-30.png : 0.010320816117324608
